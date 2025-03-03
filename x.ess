@@ -1,0 +1,5 @@
+start
+new x nuber
+set x 2+2*2
+log number x
+finish
